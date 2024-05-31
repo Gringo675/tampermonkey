@@ -1,0 +1,8 @@
+- счета: всего, в работе, оплаченных
+- improve insert values system
+- onClick for otherThreads
+- hover menu for attachments && bills
+- set notice system
+- remove old customer info (gas gmailCustomerInfo) +useConfig
+- remove info block when thread is sent
+- спрятать кнопки Сохранить на диск на вложениях
